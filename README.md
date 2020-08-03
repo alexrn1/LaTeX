@@ -1,8 +1,3 @@
-# hello-word
+# LaTeX
 
-
-Hi humans!
-
-This is an example how to edit and create a branch.
-
-Good bye!!
+Este repositorio esta enfocado en como instalar y aprender a escribir en LaTeX.
